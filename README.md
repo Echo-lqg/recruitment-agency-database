@@ -31,7 +31,6 @@ Le modèle a été structuré jusqu'à la troisième forme normale (3FN) : les a
 
 ![Modèle relationnel](schema/relational-model.png)
 
-Le fichier MySQL Workbench modifiable est disponible dans [`schema/source-model.mwb`](schema/source-model.mwb).
 
 ## Principaux cas d'usage SQL
 
