@@ -1,3 +1,5 @@
+Français | [English](README.en.md)
+
 # Base de données pour une agence d'intérim - MySQL
 
 Base de données relationnelle conçue pour soutenir les activités principales d'une agence d'intérim : gestion des personnes et des candidats, entreprises, offres d'emploi, candidatures, métiers, compétences, diplômes et expériences professionnelles.
@@ -31,6 +33,7 @@ Le modèle a été structuré jusqu'à la troisième forme normale (3FN) : les a
 
 ![Modèle relationnel](schema/relational-model.png)
 
+Le fichier MySQL Workbench modifiable est disponible dans [`schema/source-model.mwb`](schema/source-model.mwb).
 
 ## Principaux cas d'usage SQL
 
@@ -68,6 +71,7 @@ Le même script contient des cas d'échec commentés et des exemples de validati
 ```text
 recruitment-agency-database/
 ├── README.md
+├── README.en.md
 ├── schema/
 │   ├── conceptual-model.png
 │   ├── relational-model.png
